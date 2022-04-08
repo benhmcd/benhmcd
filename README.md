@@ -1,7 +1,8 @@
 ### Hi I'm Ben!
 
 [![LinkedIn_Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-mcdonald-196465192/)
-[![Gmail_Badge]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhmcd@gmail.com)
+[![Gmail_Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhmcd@gmail.com)
+
 I am a software engineering student with a passion for both frontend and backend development, working on improving my full stack development skills!
 
 **What I'm up to**
