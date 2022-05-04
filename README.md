@@ -13,4 +13,11 @@ I am a software engineering student with a passion for both frontend and backend
 
 **What I have been doing this week:**
 <!--START_SECTION:waka-->
+
+```text
+From: 27 April 2022 - To: 04 May 2022
+
+JavaScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+```
+
 <!--END_SECTION:waka-->
