@@ -4,6 +4,7 @@
 [![Gmail_Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhmcd@gmail.com)
 
 I am a software engineering student with a passion for both frontend and backend development, working on improving my full stack development skills!
+<img align="right" alt="GIF" src="https://github.com/benhmcd/benhmcd/blob/main/profile_gif.gif" width="800" height="600" />
 
 **What I'm up to**
 - This semester my classes are focused on Web Development (HTML, JavaScript, & MongoDB) and Secure Programming & Penetration Testing practices (XSS attacks, CSRF attacks, Buffer Overflow attacks, etc) .
