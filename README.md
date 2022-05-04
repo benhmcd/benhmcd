@@ -12,3 +12,5 @@ I am a software engineering student with a passion for both frontend and backend
 - I have some personal projects in the works that I can't wait to share, and a Senior Software Development Project coming in the near future!
 
 **What I have been doing this week:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
