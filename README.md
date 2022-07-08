@@ -15,10 +15,10 @@ I am a software engineering student with a passion for both frontend and backend
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 June 2022 - To: 07 July 2022
+From: 01 July 2022 - To: 08 July 2022
 
-Python                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.16 %
-Text                     ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.84 %
+Text                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.93 %
+Python                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.07 %
 ```
 
 <!--END_SECTION:waka-->
