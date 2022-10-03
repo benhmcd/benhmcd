@@ -15,7 +15,7 @@ I am a software engineering student with a passion for both frontend and backend
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 September 2022 - To: 02 October 2022
+From: 26 September 2022 - To: 03 October 2022
 
 JavaScript                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.83 %
 HTML                         ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.29 %
