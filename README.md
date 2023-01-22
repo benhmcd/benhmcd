@@ -7,9 +7,9 @@ I am a software engineering student with a passion for both frontend and backend
 <img align="right" alt="GIF" src="https://github.com/benhmcd/benhmcd/blob/main/profile_gif.gif" width="400" height="300" />
 
 **What I'm up to**
-- This semester my classes are focused on Web Development (HTML, JavaScript, & MongoDB) and Secure Programming & Penetration Testing practices (XSS attacks, CSRF attacks, Buffer Overflow attacks, etc) .
-- I am also working part time as a software engineer intern at Medtronic during the school year, and plan to work full time as an intern this summer.
-- I have some personal projects in the works that I can't wait to share, and a Senior Software Development Project coming in the near future!
+- My final semester of college will be spent focusing on my Senior Software Development project where we will be hosting a Computer Vision web application made with React.js and hosted through the AWS pipeline.
+- I am also developing a personal portfolio to help better display my skills to future employers!
+- I have some other personal projects in the works that I just can't wait to share! :)
 
 **What I have been doing this week:**
 <!--START_SECTION:waka-->
