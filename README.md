@@ -15,7 +15,7 @@ I am a software engineering student with a passion for both frontend and backend
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
 No activity tracked
 ```
