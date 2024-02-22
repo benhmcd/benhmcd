@@ -9,7 +9,7 @@ I am a software engineering student with a passion for both frontend and backend
 **What I'm up to**
 - My final semester of college will be spent focusing on my Senior Software Development project where we will be hosting a Computer Vision web application made with React.js and hosted through the AWS pipeline.
 - I am also developing a personal portfolio to help better display my skills to future employers!
-- I have some other personal projects in the works that I just can't wait to share! :)
+- I have some other personal projects in the works that I can't wait to share!
 
 **What I have been doing this week:**
 <!--START_SECTION:waka-->
